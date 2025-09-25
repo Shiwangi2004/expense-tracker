@@ -1,0 +1,5 @@
+Alembic migrations folder for Expense Tracker project.
+
+- env.py: Alembic environment configuration
+- script.py.mako: Migration script template
+- versions/: Migration scripts
